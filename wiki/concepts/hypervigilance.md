@@ -1,22 +1,28 @@
 # 過度警覺 (Hypervigilance)
 
-**過度警覺**是一種極度的覺察狀態，個體對環境中的潛在威脅或危險信號展現出異常高的敏感度。這通常是創傷經歷（如 [PTSD](./ptsd.md)）或長期處於混亂環境後的適應性結果。
+**過度警覺**是一種高度覺察的心理狀態，個體的神經系統長期處於「掃描威脅」的狀態，即便在安全的環境中也無法真正放鬆。
 
-## 核心特徵
+## 🧠 臨床特徵
 
-- **掃描威脅**：無意識地持續掃描周遭環境，尋找可能的攻擊、拋棄或背叛訊號。
-- **生理高喚起**：心跳加快、肌肉緊張，隨時處於「戰或逃 (Fight-or-Flight)」的邊緣。
-- **對不確定性的排斥**：對於過度警覺的人來說，「未知」直接等同於「即將發生的危險」。
+1. **環境掃描：** 極度關注周遭的聲音、他人的語氣、眼神或環境的微小變動。
+2. **預測威脅：** 大腦會將中性訊號解讀為潛在危險（如：對方的沉默被解讀為生氣）。
+3. **生理反應：** 伴隨著心跳加快、淺呼吸與肌肉緊繃，長期可能導致[慢性疲勞](../concepts/chronic-fatigue.md)。
 
-## 心理動力
+## 🏠 成因
 
-過度警覺者往往會將憤怒作為一種「先發制人」的策略。在感覺到局勢不明朗時，透過爆發憤怒來試圖壓制潛在威脅，或逼迫對方給出明確答案，以結束令人窒息的不確定感。
+- **創傷與成長背景：** 若曾在不可預測、混亂或有威脅的環境中成長（參見[靜止臉實驗](../concepts/still-face-experiment.md)），過度警覺曾是保護個體生存的必要工具。
+- **[不確定性不耐受 (IU)](../concepts/intolerance-of-uncertainty.md)：** 因為無法忍受「未知」，所以大腦強迫自己掃描所有變數，試圖消除不確定感。
 
-## 🔗 相關連結
-- [不確定性不耐受](./intolerance-of-uncertainty.md)
-- [次級情緒](./secondary-emotion.md)
-- [PTSD](./ptsd.md)
-- [杏仁核](./insula.md) (註：杏仁核常與腦島協同作用)
+## 🛡️ 應對
 
-## 📂 參考來源
-- [為什麼「不確定」會讓你瞬間引爆？從大腦機制到童年根源的完整解構](../summaries/uncertainty-anger-analysis.md)
+- **安全感重構：** 透過[重新養育](../concepts/re-parenting.md)與[著陸練習](../concepts/grounding-techniques.md)告訴神經系統「現在已經安全了」。
+- **區分事實與解讀：** 參見[觀察與詮釋](../concepts/observation-interpretation.md)。
+
+## 🔗 相關概念
+- [不確定性不耐受 (IU)](../concepts/intolerance-of-uncertainty.md)
+- [靜止臉實驗 (Still Face Experiment)](../concepts/still-face-experiment.md)
+- [杏仁核劫持 (Amygdala Hijack)](../concepts/amygdala-hijack.md)
+
+---
+**來源：**
+- [為什麼「不確定」會讓你瞬間引爆？](../summaries/intolerance-of-uncertainty.md)

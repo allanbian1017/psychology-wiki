@@ -24,6 +24,9 @@
 - [認知過載 (Cognitive Overload)](./cognitive-overload.md)
 - [滿足者 (Satisficer)](./satisficing.md)
 - [能量管理 (Energy Management)](./energy-management.md)
+- [認知負荷理論 (Cognitive Load Theory)](./cognitive-load-theory.md)
+- [自動導航 (Autopilot)](./autopilot.md)
 
 ## 📂 參考來源
 - [決策疲勞：為什麼做決定會讓你精疲力竭？](../summaries/decision-fatigue-guide.md)
+- [感受力與自動導航：大腦資源管理的兩極](../summaries/sensitivity-vs-autopilot.md)

@@ -1,4 +1,4 @@
-# 行行活化 (Behavioral Activation, BA)
+# 行為活化 (Behavioral Activation, BA)
 
 **行為活化**是一種基於行為主義心理學的治療技術，最初用於治療憂鬱症。其核心觀點是：**個體不應等待「有感覺」或「有動力」才行動，而應先透過增加積極行為來改善情緒。**
 
@@ -22,3 +22,4 @@
 
 ## 📂 參考來源
 - [為何厲害的人都不內耗？大腦資源管理術與對抗心理內耗的心理學策略](../summaries/mental-friction-management.md)
+- [40歲的心理學覺醒：從「尋求認可」到「內在整合」的英雄之旅](../summaries/psychological-awakening-at-40.md)

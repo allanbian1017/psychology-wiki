@@ -20,3 +20,4 @@
 
 ## 📂 參考來源
 - [決策疲勞：為什麼做決定會讓你精疲力竭？](../summaries/decision-fatigue-guide.md)
+- [感受力與自動導航：大腦資源管理的兩極](../summaries/sensitivity-vs-autopilot.md)

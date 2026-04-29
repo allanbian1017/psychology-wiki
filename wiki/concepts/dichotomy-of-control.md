@@ -23,3 +23,4 @@
 **參考來源**：
 - [內控觀：掌握命運駕駛權的科學與藝術](../summaries/locus-of-control-internal.md)
 - [控制二分法：斯多葛智慧與心理健康的基石](../summaries/dichotomy-of-control-guide.md)
+- [40歲的心理學覺醒：從「尋求認可」到「內在整合」的英雄之旅](../summaries/psychological-awakening-at-40.md)

@@ -34,3 +34,4 @@
 
 ## 📂 參考來源
 - [從「相信」到「實現」：自我效能 (Self-Efficacy) 的深度解析](../summaries/self-efficacy-analysis.md)
+- [40歲的心理學覺醒：從「尋求認考」到「內在整合」的英雄之旅](../summaries/psychological-awakening-at-40.md)

@@ -9,12 +9,13 @@
     - **正向**：高洞察力、強同理心、審美能力強。
     - **負向**：容易感到疲累、過度飽和（Overstimulation）。
 
-## 相關理論
-
-- **[感覺處理靈敏度 (SPS)](../concepts/sps.md)**：先天的人格特質基礎。
-- **[情緒粒度](../concepts/emotional-granularity.md)**：精確區分情緒的能力。
-- **[鏡像神經元](../concepts/mirror-neurons.md)**：同理心的生理基礎。
+## 🔗 相關連結
+- [感覺處理靈敏度 (SPS)](../concepts/sps.md)
+- [情緒粒度](../concepts/emotional-granularity.md)
+- [鏡像神經元](../concepts/mirror-neurons.md)
+- [自動導航 (Autopilot)](./autopilot.md)
 
 ---
 **來源：**
 - [感受力的科學：深度處理與情緒精確度](../summaries/sensory-processing-sensitivity.md)
+- [感受力與自動導航：大腦資源管理的兩極](../summaries/sensitivity-vs-autopilot.md)

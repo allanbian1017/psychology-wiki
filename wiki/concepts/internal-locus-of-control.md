@@ -17,3 +17,4 @@
 **參考來源**：
 - [內控觀：掌握命運駕駛權的科學與藝術](../summaries/locus-of-control-internal.md)
 - [打掃房間，為什麼能安撫焦慮？──心理學的解釋](../summaries/cleaning-anxiety-regulation.md)
+- [40歲的心理學覺醒：從「尋求認可」到「內在整合」的英雄之旅](../summaries/psychological-awakening-at-40.md)

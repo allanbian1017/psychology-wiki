@@ -25,3 +25,4 @@
 
 ## 📂 參考來源
 - [為什麼你總覺得大家都在看你？深度解析「聚光燈效應」](../summaries/spotlight-effect-analysis.md)
+- [40歲的心理學覺醒：從「尋求認可」到「內在整合」的英雄之旅](../summaries/psychological-awakening-at-40.md)

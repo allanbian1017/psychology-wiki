@@ -13,13 +13,18 @@
 ## 應對方法
 
 - **分散注意力**：短暫參與需要高度專注的活動（如運動、解題）以切斷迴路。
+- **90 秒法則的破壞者**：生理情緒反應僅需 90 秒代謝，反芻思考是讓情緒持續數小時甚至數天的主要原因。
 - **[行為活化](./behavioral-activation.md)**：不理會腦中的念頭，直接執行微小的行動。
 - **正念觀察**：觀察念頭的流動而不與其共舞。
+- **認知解離 (Cognitive Defusion)**：透過標籤化（例如：「我現在正產生『我不夠好』的念頭」）與念頭拉開距離。
 
 ## 🔗 相關連結
+- [90 秒法則](./90-second-rule.md) - 說明反芻如何重新觸發生化循環。
+- [認知解離](./cognitive-defusion.md) - 相似的抽離技術。
 - [精神內耗 (Mental Friction)](./mental-friction.md)
 - [行為活化 (Behavioral Activation)](./behavioral-activation.md)
 - [認知扭曲](./cognitive-distortions.md)
+- [你會不會也一直在逼自己「情緒要穩定」？](../summaries/emotional-acceptance-vs-suppression.md) - 探討標籤化如何幫助情緒調節。
 
 ## 📂 參考來源
 - [為何厲害的人都不內耗？大腦資源管理術與對抗心理內耗的心理學策略](../summaries/mental-friction-management.md)

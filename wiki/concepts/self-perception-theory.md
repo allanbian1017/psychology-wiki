@@ -23,3 +23,4 @@
 
 ## 📂 參考來源
 - [你的行為正在「欺騙」大腦：深入解析自我知覺理論 (Self-Perception Theory)](../summaries/self-perception-guide.md)
+- [40歲的心理學覺醒：從「尋求認可」到「內在整合」的英雄之旅](../summaries/psychological-awakening-at-40.md)

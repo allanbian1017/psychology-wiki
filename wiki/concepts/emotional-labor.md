@@ -1,20 +1,24 @@
 # 情緒勞動 (Emotional Labor)
 
-**情緒勞動**是由社會學家亞莉·霍希爾德（Arlie Hochschild）提出的概念，指個體為了符合組織、社會規範或特定角色期待，而必須在工作中（或人際關係中）調整與管理自身感受及表情的過程。
+**情緒勞動**是由社會學家艾莉·霍希爾德 (Arlie Hochschild) 提出的概念。它指的是員工為了符合組織的要求或職位的期待，必須調節內心的感受與外在的情緒表現，以展現出特定的面部表情、語調與姿態。
 
-## 核心特徵
+## 核心機制
 
-- **表面演出 (Surface Acting)**：僅僅改變外在表現（如：勉強微笑），但內心感受不變。這容易導致心理疲勞與失真感。
-- **深層演出 (Deep Acting)**：試圖從內心改變自己的真實感受，以達到與角色期待一致（如：說服自己父母的干擾是愛）。
-- **心力消耗**：情緒勞動需要動用前額葉進行自我調節，是一種高度消耗[認知資源](../concepts/cognitive-miser.md)的活動。
+- **展現規則 (Display Rules)**：組織內部關於「哪些情緒該展現、哪些該隱藏」的非成文規定（如：空服員必須保持真誠微笑）。
+- **演出方式**：
+    - **[表層演出 (Surface Acting)](./surface-acting-deep-acting.md)**：壓抑真實感受，僅在表面上「假裝」出所需情緒。這是高度內耗的來源。
+    - **[深層演出 (Deep Acting)](./surface-acting-deep-acting.md)**：透過重新定義情境，試圖讓自己發自內心地感受到所需情緒。
+- **後果**：長期的情緒勞動，特別是表層演出，會導致 [自我耗損 (Ego Depletion)](./ego-depletion.md)、心理異化與職業倦怠。
 
-## 在人際關係中的體現
-在親子關係中，子女回覆父母訊息時，往往需要進行大量的情緒勞動：考慮語氣、隱藏煩躁、展示關心。這種「不得不」的情緒管理是造成關係緊張與[心理抗拒](./psychological-reactance.md)的重要原因。
+## 延伸應用
+
+情緒勞動不僅存在於職場，在家庭（如親子溝通、婆媳關係）中也大量存在。
 
 ## 🔗 相關連結
-- [心理抗拒 (Psychological Reactance)](./psychological-reactance.md)
-- [角色轉換成本](./role-transition-cost.md)
-- [認知過載](../concepts/cognitive-overload.md)
+- [表層演出與深層演出 (Surface vs. Deep Acting)](./surface-acting-deep-acting.md)
+- [自我耗損 (Ego Depletion)](./ego-depletion.md)
+- [角色轉換成本 (Role Transition Cost)](./role-transition-cost.md)
+- [認知失調 (Cognitive Dissonance)](./cognitive-dissonance.md)
 
 ## 📂 參考來源
-- [父母的「隨機關心」為何讓你煩躁？親子數位溝通的心理機制解析](../summaries/parent-digital-communication.md)
+- [為什麼工作與家庭切換總是特別容易內耗？](../summaries/work-family-transition-friction.md)
