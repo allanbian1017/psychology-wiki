@@ -8,6 +8,8 @@ pattern: Pipeline
 # 🎯 Purpose
 To systematically process uningested raw source files, extract their core arguments and concepts, integrate them into a structured markdown wiki, and maintain an accurate log of ingested materials.
 
+> **語言政策 (Language Policy):** All agent-generated output — summaries, concept pages, index entries, and log descriptions — MUST be written in **Traditional Chinese (繁體中文)**. Raw source files in `raw/` are read as-is and remain untouched regardless of their original language.
+
 # 🚪 Gating & Trigger Conditions
 - **When to invoke:** A user requests to ingest new files, or when unlogged files are detected in the `raw/` directory.
 - **When NOT to invoke:** The target file already has a corresponding entry in `log.md`, or the file type is entirely unsupported by the agent's reading tools (e.g., binaries, executables).
@@ -34,7 +36,8 @@ To systematically process uningested raw source files, extract their core argume
 
    - **b. Draft Summary Page:**
      - Generate a new markdown file in `wiki/summaries/` named appropriately based on the source.
-     - Structure the breakdown using `AGENTS.md` conventions (clear titles, relative links). 
+     - Structure the breakdown using `AGENTS.md` conventions (clear titles, relative links).
+     - **All prose content MUST be written in Traditional Chinese (繁體中文).** File names remain in English/romanised form for system compatibility.
 
    - **c. Update Central Index:**
      - Read `index.md`.
@@ -46,6 +49,7 @@ To systematically process uningested raw source files, extract their core argume
      - For each concept, check if a corresponding file exists in `wiki/concepts/<concept name>.md` or is listed in `index.md`.
      - *If it exists:* Read the existing concept page, synthesize the new findings into the existing text, and add a backlink to the new summary page.
      - *If it does NOT exist:* Create `wiki/concepts/<concept name>.md` containing the concept definition and a backlink to the source summary page.
+     - **All concept page prose MUST be written in Traditional Chinese (繁體中文).**
 
    - **e. Log Action:**
      - Append an entry to `log.md` using the exact format: `## [YYYY-MM-DD] ingest | [Exact File Name](wiki/summaries/<summary_filename>.md)`.

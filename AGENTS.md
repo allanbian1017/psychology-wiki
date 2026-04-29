@@ -1,11 +1,22 @@
-# LLM Wiki Schema
+# Psychology Wiki — Agent Schema
 
-This document defines the schema, structure, and operations for this LLM-maintained knowledge base.
+This document defines the schema, structure, and operations for this LLM-maintained **Psychology knowledge base**.
+
+## 🧠 Domain & Purpose
+
+This repository is a **curated wiki focused exclusively on Psychology**. Its goal is to collect, organize, and connect psychological research, theories, and concepts — spanning clinical psychology, cognitive science, social psychology, neuroscience, and related fields.
+
+**Agent role**: Agents are responsible for maintaining this wiki with the same rigour as a professional encyclopedia. Every summary, concept page, and index entry should be accurate, well-linked, and grounded in the source material stored in `raw/`. Agents should:
+- Favour depth and precision over brevity when synthesizing psychological content.
+- Actively surface cross-disciplinary connections (e.g., between cognitive biases and clinical interventions).
+- Use domain-appropriate language consistent with academic psychology.
 
 ## Core Principles
 
+- **Domain Focus**: All content must be relevant to Psychology or closely related fields. Off-topic material should not be ingested.
 - **Raw Sources (`raw/`)**: Immutable files (papers, articles, transcripts). The LLM reads these but NEVER modifies them.
-- **The Wiki**: A structured collection of markdown files maintained entirely by the LLM.
+- **The Wiki**: A structured collection of markdown files maintained entirely by the LLM — acting as an evolving, interconnected reference for psychological knowledge.
+- **Language Policy**: All wiki-generated content — including summaries, concept pages, index entries, derived articles, and log descriptions — MUST be written in **Traditional Chinese (繁體中文)**. Raw source files in `raw/` are exempt (they are immutable and may be in any language), but every agent-generated output MUST be in Traditional Chinese.
 
 ## Documentation
 
@@ -14,6 +25,7 @@ For detailed rules and guidelines, refer to the following documents:
 
 ## 🛑 Critical Constraints
 
+- **Language — Traditional Chinese (繁體中文)**: ALL agent-generated wiki content MUST be written in Traditional Chinese. This includes summaries, concept pages, index entries, derived articles, and log descriptions. There are NO exceptions for agent-authored content.
 - **No WikiLinks**: ALWAYS use standard Markdown relative links (e.g., `[Title](../concepts/File.md)`). DO NOT use `[[WikiLinks]]`.
 - **Absolute Paths**: When using tools, always use absolute paths provided in the environment.
 - **Immutable Raw**: NEVER modify files in the `raw/` directory.
