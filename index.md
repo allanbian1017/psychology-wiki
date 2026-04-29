@@ -75,6 +75,29 @@ This is the central catalog of everything in the wiki. It is updated by the LLM 
 - [自我靜默 (Self-Silencing)](./wiki/concepts/self-silencing.md) - 為了維繫關係而壓抑真實感受的傾向。
 - [課題分離 (Separation of Tasks)](./wiki/concepts/separation-of-tasks.md) - 區分個人與他人責任界線的心理工具。
 - [阿德勒 (Alfred Adler)](./wiki/concepts/alfred-adler.md) - 個體心理學創始人，強調社會興趣與課題分離。
+- [BJ Fogg 行為模型 (Fogg Behavior Model)](./wiki/concepts/fogg-behavior-model.md) - 主張行為發生於動機、能力與觸發點同時具備時。
+- [觸發點 (Trigger)](./wiki/concepts/trigger.md) - 啟動特定行為的外部提示或內部信號。
+- [微習慣 (Tiny Habits)](./wiki/concepts/tiny-habits.md) - 透過極度降低初始難度來建立長期習慣的行為策略。
+- [BJ Fogg](./wiki/concepts/bj-fogg.md) - 史丹佛行為設計實驗室創始人，研究行為模型與微習慣。
+- [James Clear](./wiki/concepts/james-clear.md) - 《原子習慣》作者，推廣習慣形成的系統性方法。
+
+- [弗里德里希·尼采 (Friedrich Nietzsche)](./wiki/concepts/nietzsche.md) - 德國哲學家，提出超人、權力意志等震撼現代思想的概念。
+- [超人 (Übermensch)](./wiki/concepts/ubermensch.md) - 不斷自我超越、創造自身價值的人類理想狀態。
+- [權力意志 (Will to Power)](./wiki/concepts/will-to-power.md) - 追求生命力擴張、自我克服與釋放力量的本能驅力。
+- [永恆輪迴 (Eternal Recurrence)](./wiki/concepts/eternal-recurrence.md) - 假定生命無限重複的思想實驗，旨在考驗對生命的肯定程度。
+- [愛命運 (Amor Fati)](./wiki/concepts/amor-fati.md) - 不僅忍受而是熱愛命運中一切必然（包括苦難）的態度。
+- [精神三變 (Three Metamorphoses)](./wiki/concepts/three-metamorphoses.md) - 精神成長的三個階段：駱駝（承載）、獅子（破壞）、孩子（創造）。
+- [上帝已死 (God is Dead)](./wiki/concepts/god-is-dead.md) - 描述絕對價值體系崩潰與虛無主義來臨的歷史性診斷。
+- [末人 (The Last Man)](./wiki/concepts/last-man.md) - 超人的反面，追求絕對安全、舒適與平庸的現代人格。
+
+- [信任方程式 (Trust Equation)](./wiki/concepts/trust-equation.md) - 衡量信任的公式，包含可信度、可靠性、親近感與自我導向。
+- [信任感 (Trustworthiness)](./wiki/concepts/trustworthiness.md) - 人際關係的基礎，透過一致性與利他行為建立。
+
+- [PERMA 模型 (PERMA Model)](./wiki/concepts/perma.md) - 馬丁·塞利格曼提出的幸福感五要素框架。
+- [正向心理學 (Positive Psychology)](./wiki/concepts/positive-psychology.md) - 研究如何活得充實、提升幸福感與發揮潛能的科學。
+- [馬丁·塞利格曼 (Martin Seligman)](./wiki/concepts/martin-seligman.md) - 正向心理學之父，提出 PERMA 與習得性無助。
+- [心流 (Flow)](./wiki/concepts/flow.md) - 全神貫注於某項活動時產生的渾然忘我狀態。
+
 - [FOPO (Fear of People's Opinions)](./wiki/concepts/fopo.md) - 過度在意他人評價而失去內在穩定性與行動自由的心理現象。
 - [社會比較理論 (Social Comparison Theory)](./wiki/concepts/social-comparison-theory.md) - 透過與他人比較來評估自身價值與能力的心理傾向。
 - [自我效能理論 (Self-Efficacy Theory)](./wiki/concepts/self-efficacy-theory.md) - 個體對自己能否完成特定任務的信心程度。
@@ -89,18 +112,156 @@ This is the central catalog of everything in the wiki. It is updated by the LLM 
 - [執行力 (Execution)](./wiki/concepts/execution.md) - 將計畫轉化為結果，並在困難中堅持完成的能力。
 - [複盤 (Review)](./wiki/concepts/retrospective.md) - 對過去行為進行檢視與總結，以驅動未來成長的學習方法。
 - [回饋閉環 (Feedback Loop)](./wiki/concepts/feedback-loop.md) - 確保訊息傳達並得到執行結果確認的雙向循環。
+- [決策疲勞 (Decision Fatigue)](./wiki/concepts/decision-fatigue.md) - 長時間決策後，判斷品質下降與意志力耗損的現象。
+- [自我耗損 (Ego Depletion)](./wiki/concepts/ego-depletion.md) - 認為意志力是有限資源且會被耗盡的理論。
+- [滿足者 (Satisficer)](./wiki/concepts/satisficing.md) - 追求「足夠好」而非完美，以節省認知資源的決策風格。
+- [沈沒成本謬誤 (Sunk Cost Fallacy)](./wiki/concepts/sunk-cost-fallacy.md) - 被過去的投入綁架，而非基於未來效益做決策的現象。
+- [機會成本 (Opportunity Cost)](./wiki/concepts/opportunity-cost.md) - 選擇一項事物而必須放棄的次優選項的價值。
+- [歸零思考 (Zero-Based Thinking)](./wiki/concepts/zero-based-thinking.md) - 透過假設「重新開始」來評估現有事務價值的決策技術。
+- [進展定律 (The Progress Principle)](./wiki/concepts/progress-principle.md) - 強調持續的小勝利是動機與成就感的關鍵。
+- [成就感 (Sense of Achievement)](./wiki/concepts/sense-of-achievement.md) - 來自行動、反饋與成長迴圈的積極心理體驗。
 
 - [ABC 理論 (ABC Model)](./wiki/concepts/abc-theory.md) - 決定情緒結果的是信念 (B) 而非事件 (A) 的核心框架。
 - [理情行為治療 (REBT)](./wiki/concepts/rational-emotive-behavior-therapy.md) - 由艾利斯創立，強調改變非理性信念的認知療法。
 - [認知行為治療 (CBT)](./wiki/concepts/cognitive-behavioral-therapy.md) - 結合認知與行為介入，處理多種心理問題的主流實證療法。
 - [阿爾伯特·艾利斯 (Albert Ellis)](./wiki/concepts/albert-ellis.md) - 理情行為治療 (REBT) 的創始人。
 - [非理性信念 (Irrational Beliefs)](./wiki/concepts/irrational-beliefs.md) - 絕對化、災難化且導致情緒困擾的不合理思維模式。
+- [壓力 (Stress)](./wiki/concepts/stress.md) - 身心面對需求改變時的自然防禦反應。
+- [一般適應症候群 (GAS)](./wiki/concepts/gas.md) - 身體面對長期壓力的警覺、抵抗與耗竭三階段。
+- [良性壓力與惡性壓力 (Eustress vs. Distress)](./wiki/concepts/eustress-distress.md) - 區分具有激勵作用與具有損害性的壓力類型。
+- [認知評估理論 (Cognitive Appraisal Theory)](./wiki/concepts/cognitive-appraisal.md) - 主張壓力取決於個人對威脅與資源的主觀評估。
+- [耶基斯–多德森定律 (Yerkes-Dodson Law)](./wiki/concepts/yerkes-dodson-law.md) - 描述壓力與表現之間倒 U 型關係的心理定律。
+- [認知重評估 (Cognitive Reappraisal)](./wiki/concepts/cognitive-reappraisal.md) - 透過改變對事件的詮釋來調節情緒的策略。
+- [問題焦點應對 (Problem-Focused Coping)](./wiki/concepts/problem-focused-coping.md) - 直接處理壓力來源並透過拆解任務增加掌控感的策略。
+- [生理性嘆息 (Physiological Sigh)](./wiki/concepts/physiological-sigh.md) - 透過特定呼吸頻率快速啟動副交感神經的減壓技術。
+- [情緒 (Emotion)](./wiki/concepts/emotion.md) - 結合生理喚起、主觀體驗與行為反應的精密生存導航系統。
+- [演化情緒理論 (Evolutionary Theory of Emotion)](./wiki/concepts/evolutionary-theory.md) - 主張情緒是為了生存與繁衍而演化出的適應性機制。
+- [情緒建構理論 (Theory of Constructed Emotion)](./wiki/concepts/constructed-emotion.md) - 認為情緒是大腦根據經驗即時預測與建構的意義。
+- [普拉切克的情緒輪 (Plutchik's Wheel of Emotions)](./wiki/concepts/plutchik-wheel.md) - 展示情緒多樣性、對立性與混合關係的模型。
+- [情緒標注法 (Affect Labeling)](./wiki/concepts/affect-labeling.md) - 透過精準命名情緒來降低其強度的心理調節技術。
+- [保羅·艾克曼 (Paul Ekman)](./wiki/concepts/paul-ekman.md) - 研究情緒臉部表情普遍性與微表情的心理學家。
+- [感受力 (Sensitivity)](./wiki/concepts/sensitivity.md) - 大腦處理資訊的深度與精細度，包含外在環境敏銳度與內在自我覺察。
+- [感覺處理靈敏度 (Sensory Processing Sensitivity, SPS)](./wiki/concepts/sps.md) - 高敏感特質的神經生物學基礎。
+- [情緒粒度 (Emotional Granularity)](./wiki/concepts/emotional-granularity.md) - 精確區分並命名不同情緒體驗的能力。
+- [鏡像神經元 (Mirror Neurons)](./wiki/concepts/mirror-neurons.md) - 支持模仿、學習與同理心的神經機制。
+- [腦島 (Insula)](./wiki/concepts/insula.md) - 處理內覺、情緒主觀體驗與感官整合的大腦區域。
+- [西格蒙德·佛洛伊德 (Sigmund Freud)](./wiki/concepts/freud.md) - 精神分析學派創始人，強調無意識與過去經驗。
+- [精神分析學派 (Psychoanalysis)](./wiki/concepts/psychoanalysis.md) - 探索無意識衝突與童年經驗對人格影響的理論。
+- [無意識 (Unconscious)](./wiki/concepts/unconscious.md) - 心靈中無法直接覺察的慾望、記憶與衝突。
+- [本我、自我與超我 (Id, Ego, Superego)](./wiki/concepts/id-ego-superego.md) - 佛洛伊德提出的人格結構模型。
+- [心理防衛機制 (Defense Mechanisms)](./wiki/concepts/defense-mechanisms.md) - 自我應對焦慮的無意識心理技術。
+- [移置作用 (Displacement)](./wiki/concepts/displacement.md) - 將情感轉移到安全目標身上的防衛機制。
+- [移情 (Transference)](./wiki/concepts/transference.md) - 將過去對重要人物的情感轉移到現在的人身上的現象。
+- [協和號效應 (The Concorde Fallacy)](./wiki/concepts/concorde-fallacy.md) - 在明知無望時仍因前期巨大投入而持續挹注資源的心理偏誤。
+- [里昂·費斯汀格 (Leon Festinger)](./wiki/concepts/leon-festinger.md) - 認知失調理論與社會比較理論的奠基者。
+- [班傑明·富蘭克林效應 (Benjamin Franklin Effect)](./wiki/concepts/benjamin-franklin-effect.md) - 透過請求他人幫助來增加對方對自己好感的心理現象。
+- [心血辯護 (Effort Justification)](./wiki/concepts/effort-justification.md) - 為付出過度努力的事物賦予過高價值的認知偏誤。
+- [自我知覺理論 (Self-Perception Theory)](./wiki/concepts/self-perception-theory.md) - 透過觀察自身行為來推斷內在態度與情感的理論。
+- [具身認知 (Embodied Cognition)](./wiki/concepts/embodied-cognition.md) - 生理體驗與肢體動作直接影響心理判斷的現象。
+- [達里爾·貝姆 (Daryl Bem)](./wiki/concepts/daryl-bem.md) - 自我知覺理論的提出者，研究行為與態度的因果關係。
+- [阿爾伯特·班杜拉 (Albert Bandura)](./wiki/concepts/albert-bandura.md) - 提出自我效能理論與社會學習理論的心理學權威。
+- [過往成功經驗 (Mastery Experiences)](./wiki/concepts/mastery-experiences.md) - 透過親身成就建立自我效能最強大的心理來源。
+- [稟賦效應 (Endowment Effect)](./wiki/concepts/endowment-effect.md) - 個體一旦擁有某物，便會賦予其過高主觀價值的現象。
+- [處置效應 (Disposition Effect)](./wiki/concepts/disposition-effect.md) - 傾向賣出獲利資產卻長期持有虧損資產的投資行為偏誤。
+- [成長心態 (Growth Mindset)](./wiki/concepts/growth-mindset.md) - 相信能力可透過努力而發展的信念。
+- [可用性捷思 (Availability Heuristic)](./wiki/concepts/availability-heuristic.md) - 傾向依賴最易提取的資訊來做判斷的認知偏誤。
+- [基本比率偏誤 (Base Rate Neglect)](./wiki/concepts/base-rate-neglect.md) - 評估機率時忽略母體整體發生率的現象。
+- [選擇偏誤 (Selection Bias)](./wiki/concepts/selection-bias.md) - 採樣過程非隨機導致樣本無法代表整體的現象。
+- [倖存者偏差 (Survivorship Bias)](./wiki/concepts/survivorship-bias.md) - 過度關注篩選後的存活者而忽略消失樣本的認知偏誤。
+- [亞伯拉罕·瓦德 (Abraham Wald)](./wiki/concepts/abraham-wald.md) - 二戰時期提出轟炸機裝甲加固建議、克服倖存者偏差的統計學家。
+- [展望理論 (Prospect Theory)](./wiki/concepts/prospect-theory.md) - 描述不確定性下決策行為的心理學模型，強調損失規避。
+- [社會認同 (Social Proof)](./wiki/concepts/social-proof.md) - 在不確定情境下模仿他人行為的心理傾向。
+- [旁觀者效應 (Bystander Effect)](./wiki/concepts/bystander-effect.md) - 多人在場時提供幫助可能性降低的現象。
+- [多數無知 (Pluralistic Ignorance)](./wiki/concepts/pluralistic-ignorance.md) - 錯誤認為他人看法與自己不同的集體心理誤判。
+- [羅伯特·席爾迪尼 (Robert Cialdini)](./wiki/concepts/robert-cialdini.md) - 說服力心理學權威，提出影響力六大原則。
+- [聚光燈效應 (Spotlight Effect)](./wiki/concepts/spotlight-effect.md) - 高估他人對自己外表與行為關注程度的現象。
+- [透明度錯覺 (Illusion of Transparency)](./wiki/concepts/illusion-of-transparency.md) - 誤以為內在情緒與心理狀態能被他人輕易讀取的傾向。
+- [不完美效應 (Pratfall Effect)](./wiki/concepts/pratfall-effect.md) - 優秀的人偶爾犯小錯反而增加親和力的現象。
+- [自我中心偏誤 (Egocentric Bias)](./wiki/concepts/egocentric-bias.md) - 過度依賴自身視角、難以準確推論他人心理狀態的認知傾向。
+- [精神內耗 (Mental Friction)](./wiki/concepts/mental-friction.md) - 自我懷疑與反覆糾結導致認知資源過度損耗的狀態。
+- [反芻思考 (Rumination)](./wiki/concepts/rumination.md) - 沉溺於痛苦與成因、無法導向積極解決方案的思維循環。
+- [行為活化 (Behavioral Activation)](./wiki/concepts/behavioral-activation.md) - 透過先行動再改善情緒的策略，阻斷焦慮與憂鬱循環。
+- [被討厭的勇氣 (Courage to be Disliked)](./wiki/concepts/courage-to-be-disliked.md) - 為了追求真實與自由，承擔不被他人認可風險的勇氣。
+- [社會貢獻感 (Social Contribution)](./wiki/concepts/social-contribution.md) - 感覺自己對他人或社群有價值，從中獲得的深層幸福感。
+- [時間富裕 (Time Affluence)](./wiki/concepts/time-affluence.md) - 感知到擁有足夠自由時間從事有意義活動的狀態。
+- [幸福感高原 (Happiness Plateau)](./wiki/concepts/happiness-plateau.md) - 收入達到飽和點後，情緒幸福感不再隨金錢增加的現象。
+- [收入邊際效應遞減](./wiki/concepts/diminishing-marginal-utility.md) - 每增加一單位收入所帶來的幸福感增幅逐漸減少的趨勢。
+- [情緒勞動 (Emotional Labor)](./wiki/concepts/emotional-labor.md) - 為了符合角色期待而調節內心感受與外在表現的心理過程。
+- [寒暄性溝通 (Phatic Communication)](./wiki/concepts/phatic-communication.md) - 旨在維持連結而非傳遞實質資訊的社交語言。
+- [角色轉換成本 (Role Transition Cost)](./wiki/concepts/role-transition-cost.md) - 在不同社會身分間切換思維模式時消耗的認知能量。
+- [多巴胺 (Dopamine)](./wiki/concepts/dopamine.md) - 負責獎勵預期、動機與新奇感的神經傳導物質。
+- [習慣化 (Habituation)](./wiki/concepts/habituation.md) - 對重複且無害刺激反應減弱的生理與心理機制。
+- [心理帳戶 (Mental Accounting)](./wiki/concepts/mental-accounting.md) - 個體將金錢依來源或用途劃分至不同心理分類的傾向。
+- [心理抽離 (Psychological Detachment)](./wiki/concepts/psychological-detachment.md) - 在心理上與壓力源（如工作）完全斷開連結的修復狀態。
+- [解釋水平理論 (CLT)](./wiki/concepts/construal-level-theory.md) - 探討心理距離如何影響認知的抽象程度（美化 vs 具體）。
+- [次級情緒 (Secondary Emotion)](./wiki/concepts/secondary-emotion.md) - 用來掩蓋底層脆弱情緒（如恐懼）的防衛性情緒（如憤怒）。
+- [不確定性不耐受 (IU)](./wiki/concepts/intolerance-of-uncertainty.md) - 大腦難以處理模糊與未知，將其視為高度威脅的傾向。
+- [靜止臉實驗 (Still Face Effect)](./wiki/concepts/still-face-effect.md) - 揭示嬰兒對照顧者不予回應或不可預測性的極度反應。
+- [過度警覺 (Hypervigilance)](./wiki/concepts/hypervigilance.md) - 長期掃描環境威脅、對潛在風險極度敏感的狀態。
+- [個體心理學 (Individual Psychology)](./wiki/concepts/individual-psychology.md) - 阿德勒創立的學派，強調整體性與目的論。
+- [自卑感與補償 (Inferiority and Compensation)](./wiki/concepts/inferiority-compensation.md) - 追求卓越與克服不完美的心理動力。
+- [社會興趣 (Social Interest)](./wiki/concepts/social-interest.md) - 對人類利益的關注與社會合作的意願。
+- [依附理論 (Attachment Theory)](./wiki/concepts/attachment-theory.md) - 解釋人類早期情感連結及其對成年關係影響的理論。
+- [安全型依附 (Secure Attachment)](./wiki/concepts/secure-attachment.md) - 相信自己值得愛且他人可靠的穩定依附風格。
+- [焦慮型依附 (Anxious Attachment)](./wiki/concepts/anxious-attachment.md) - 渴望親密但恐懼拋棄，常有抗議行為的依附風格。
+- [逃避型依附 (Avoidant Attachment)](./wiki/concepts/avoidant-attachment.md) - 壓抑親密需求，強調絕對獨立的依附風格。
+- [恐懼/混亂型依附 (Fearful-Avoidant Attachment)](./wiki/concepts/fearful-avoidant-attachment.md) - 渴望親密卻感到危險，情緒不穩定的依附風格。
+- [內在運作模式 (Internal Working Models)](./wiki/concepts/internal-working-models.md) - 關於自我與他人的心理地圖，決定關係行為的腳本。
+- [獲得型安全感 (Earned Security)](./wiki/concepts/earned-security.md) - 透過後天練習與覺察，從不安全走向安全的心理狀態。
+- [神經可塑性 (Neuroplasticity)](./wiki/concepts/neuroplasticity.md) - 大腦隨經驗改變結構與功能的能力，是心理改變的生理基礎。
+- [約翰·鮑比 (John Bowlby)](./wiki/concepts/john-bowlby.md) - 依附理論的創始人，強調早期聯繫的重要性。
+- [控制點 (Locus of Control)](./wiki/concepts/locus-of-control.md) - 個體對生活事件原因的歸因傾向。
+- [內控觀 (Internal Locus of Control)](./wiki/concepts/internal-locus-of-control.md) - 相信自己能透過努力與選擇影響生活結果的信念。
+- [外控觀 (External Locus of Control)](./wiki/concepts/external-locus-of-control.md) - 相信運氣、環境或權威主宰命運的傾向。
+- [習得性無助 (Learned Helplessness)](./wiki/concepts/learned-helplessness.md) - 長期挫敗後產生的無力感與放棄嘗試的心理狀態。
+- [二分法 (Dichotomy of Control)](./wiki/concepts/dichotomy-of-control.md) - 區分可控與不可控事物的智慧與工具。
+- [斯多葛學派 (Stoicism)](./wiki/concepts/stoicism.md) - 強調理性與自律、區分可控與不可控的古老哲學。
+- [基本歸因謬誤 (Fundamental Attribution Error, FAE)](./wiki/concepts/fae.md) - 觀察他人時高估性格特質、低估環境影響的偏誤。
+- [歸因理論 (Attribution Theory)](./wiki/concepts/attribution-theory.md) - 研究人們如何解釋行為原因的心理理論。
+- [行動者-觀察者偏誤 (Actor-Observer Bias)](./wiki/concepts/actor-observer-bias.md) - 對待自己與他人使用不同歸因標準的現象。
+- [印象管理 (Impression Management)](./wiki/concepts/impression-management.md) - 透過操縱資訊與歸因來設計他人眼中自我形象的策略。
+- [認知捷思 (Cognitive Heuristics)](./wiki/concepts/cognitive-heuristics.md) - 大腦為了節省資源而採取的心理簡化路徑。
+- [自我實現預言 (Self-Fulfilling Prophecy)](./wiki/concepts/self-fulfilling-prophecy.md) - 初始預期影響行為並最終導致預期發生的循環現象。
+- [親社會行為 (Prosocial Behavior)](./wiki/concepts/prosocial-behavior.md) - 旨在造福他人或群體的自發性行為。
+- [感恩練習 (Gratitude Practice)](./wiki/concepts/gratitude-practice.md) - 透過刻意注意正向事物來重塑大腦模式的工具。
+- [價值觀一致性 (Value Congruence)](./wiki/concepts/value-congruence.md) - 個人行為與核心價值觀相符合的程度。
+- [單人遊戲 (Single Player Game)](./wiki/concepts/single-player-game.md) - 以自我定義的規則追求成長與意義，退出外部比較競爭。
+- [自我實現 (Self-Actualization)](./wiki/concepts/self-actualization.md) - 充分發揮個人潛能、活出真實價值的最高心理需求。
+- [內在動機 vs 外在動機 (Intrinsic vs Extrinsic Motivation)](./wiki/concepts/motivation-types.md) - 行為動力的來源區分：興趣與意義 vs 獎勵與懲罰。
+- [存在心理學 (Existential Psychology)](./wiki/concepts/existential-psychology.md) - 關注生命意義、自由與個人責任的心理學流派。
+- [強者表達 (Strong Communication)](./wiki/concepts/strong-communication.md) - 以價值為導向、展現掌控力與解決問題能力的溝通風格。
+- [框架效應 (Framing Effect)](./wiki/concepts/framing-effect.md) - 相同的資訊因呈現方式不同而導致不同決策的心理現象。
+- [認知重構 (Cognitive Reframing)](./wiki/concepts/cognitive-reframing.md) - 改變對事件或想法的解釋方式以轉化觀點的技巧。
+- [詳盡可能性模型 (ELM)](./wiki/concepts/elm-model.md) - 描述說服訊息處理的中心與周邊路徑的心理模型。
+- [權威偏誤 (Authority Bias)](./wiki/concepts/authority-bias.md) - 傾向於盲目信任或順從權威特質的人。
+- [心理抗拒 (Psychological Reactance)](./wiki/concepts/psychological-reactance.md) - 自由受威脅時產生的反抗心理與行為。
+- [迴力鏢效應 (Boomerang Effect)](./wiki/concepts/boomerang-effect.md) - 強硬說服導致結果與預期截然相反的現象。
+- [BYAF 技巧 (But You Are Free)](./wiki/concepts/byaf-technique.md) - 透過強調對方選擇自由來提高說服成功率的技術。
+- [逆向心理學 (Reverse Psychology)](./wiki/concepts/reverse-psychology.md) - 利用抗拒心理引導對方達成目標的策略。
+- [情緒緩衝 (Emotional Buffering)](./wiki/concepts/emotional-buffering.md) - 壓力衝擊時的保護機制，如社會支持與正向資源。
+- [緩衝效應假說 (Stress-Buffering Hypothesis)](./wiki/concepts/stress-buffering.md) - 高品質社會支持在高壓狀態下具有保護作用的理論。
+- [擴展與建構理論 (Broaden-and-Build Theory)](./wiki/concepts/broaden-and-build.md) - 正向情緒擴展認知並建構心理資本的理論。
+- [3P 模型 (3P Model)](./wiki/concepts/3p-model.md) - 面對挫折時的三大思維陷阱：個人化、普遍化、永久化。
+- [反脆弱 (Antifragility)](./wiki/concepts/antifragility.md) - 從壓力與波動中獲益、變得更強大的性質。
+- [認知三角 (Cognitive Triangle)](./wiki/concepts/cognitive-triangle.md) - 想法、情緒與行為之間互為因果的循環模型。
+- [自動化思考 (Automatic Thoughts)](./wiki/concepts/automatic-thoughts.md) - 瞬時產生的、未經意識審查的習慣性念頭。
+- [核心信念 (Core Beliefs)](./wiki/concepts/core-beliefs.md) - 關於自我與世界的深層本質假設。
+- [認知扭曲 (Cognitive Distortions)](./wiki/concepts/cognitive-distortions.md) - 大腦處理資訊時的系統性思維偏差。
+- [行為實驗 (Behavioral Experiment)](./wiki/concepts/behavioral-experiment.md) - 將負面信念視為假設並在現實中進行測試的技術。
+- [認知過載 (Cognitive Overload)](./wiki/concepts/cognitive-overload.md) - 資訊處理量超過大腦負荷導致的心理疲勞狀態。
+- [認知腳本 (Cognitive Scripts)](./wiki/concepts/cognitive-scripts.md) - 預設的情境事件順序與行為規範。
+- [基模 (Schema)](./wiki/concepts/schema.md) - 組織與解釋資訊的心理框架。
+- [認知吝嗇者 (Cognitive Miser)](./wiki/concepts/cognitive-miser.md) - 大腦傾向於節省能量資源的心理特質。
+- [執行意圖 (Implementation Intentions)](./wiki/concepts/implementation-intentions.md) - 以 "If-Then" 形式預設的行為反應計劃。
+- [心血辯護 (Effort Justification)](./wiki/concepts/effort-justification.md) - 為付出巨大代價的事物賦予高價值。
+- [班傑明·富蘭克林效應 (Benjamin Franklin Effect)](./wiki/concepts/benjamin-franklin-effect.md) - 幫助過你的人會更喜歡你。
 
 
 ### Sources
 
 - [創傷後成長（Post-Traumatic Growth）：當痛苦成為改變的起點](./wiki/summaries/ptg-trauma-growth.md) - 探討如何從痛苦中轉化出正向成長的力量。
 - [影子影響力：如何用一句「讚美」癱瘓辦公室霸凌？](./wiki/summaries/shadow-influence-praise.md) - 解析如何利用心理機制優雅瓦解職場霸凌。
+- [感受力的科學：深度處理與情緒精確度](./wiki/summaries/sensory-processing-sensitivity.md) - 探討高敏感族群的神經生理特質及其在情緒調節中的應用。
 - [從控制式關懷到成熟的情感界線：在相互依附文化中學會放手的藝術](./wiki/summaries/controlling-care-boundaries.md) - 探討如何在關係中學會放手與尊重界線。
 - [把生活當作實驗室：用「微小實驗」取代龐大目標的實踐指南](./wiki/summaries/tiny-experiments-guide.md) - 介紹如何以科學實驗心態達成個人目標。
 - [擁抱內在小孩：為什麼成年人依然需要「布娃娃」？](./wiki/summaries/inner-child-stuffed-animals.md) - 探索毛絨玩具在成人情緒調節中的科學價值。
@@ -113,9 +274,47 @@ This is the central catalog of everything in the wiki. It is updated by the LLM 
 - [工作能力的五大關鍵行為：如何成為不可或缺的人](./wiki/summaries/work-ability-behaviors.md) - 總結高效能人士的職場核心素養與行為模式。
 - [自我主宰的七個習慣：建立內在系統的科學實踐](./wiki/summaries/7-habits-self-mastery.md) - 融合神經科學與心理學的個人成長指南。
 - [FOPO：對他人評價的恐懼與自救指南](./wiki/summaries/fopo-analysis.md) - 深入探討 FOPO 的心理機制與跨出評價牢籠的方法。
-
-
-
-
+- [PERMA 幸福模型與實踐指南：正向心理學的日常應用](./wiki/summaries/perma-model-guide.md) - 介紹幸福五要素及其具體的日常練習。
+- [信任方程式：衡量與建立人際信任的科學模型](./wiki/summaries/trust-equation.md) - 解析信任的四大要素及其實踐路徑。
+- [尼采的超人：從哲學概念到自我超越](./wiki/summaries/nietzsche-ubermensch.md) - 深度解析超人哲學及其在現代生活中的自我救贖意義。
+- [不再靠「動機」開始：改變拖延的心理學關鍵](./wiki/summaries/overcoming-procrastination-triggers.md) - 探討如何運用行為模型與微行動突破拖延困境。
+- [壓力管理的科學：從生理機制到認知重塑](./wiki/summaries/stress-management-science.md) - 解析壓力的生理與認知機制，並提供實用的排解策略。
+- [情緒的本質：人類精密的生存導航系統](./wiki/summaries/nature-of-emotions.md) - 探討情緒的定義、演化意義及其運作機制。
+- [感受力的科學：深度處理與情緒精確度](./wiki/summaries/sensory-processing-sensitivity.md) - 介紹感覺處理靈敏度（SPS）與情緒粒度等核心概念。
+- [佛洛伊德 vs 阿德勒：理論核心、現代連結與生活應用](./wiki/summaries/freud-vs-adler.md) - 深度比較精神分析與個體心理學的差異與應用。
+- [破解關係的原始代碼：依附理論全解析](./wiki/summaries/attachment-theory-guide.md) - 深入探討依附類型、成因及其對成年關係的重塑路徑。
+- [內控觀：掌握命運駕駛權的科學與藝術](./wiki/summaries/locus-of-control-internal.md) - 解析控制點理論，並提供強化內控思維的實踐指南。
+- [看透人心的「基本歸因謬誤」：如何操縱印象，成為面試與談判的贏家](./wiki/summaries/fundamental-attribution-error.md) - 深入解析 FAE 機制及其在職場中的印象管理應用。
+- [富能量 × 心理學：日常操作清單](./wiki/summaries/psychology-rich-energy-checklist.md) - 結合多項心理學原理的日常身心與價值輸出清單。
+- [專注你的單人遊戲：去比較化與自我實現的心理學策略](./wiki/summaries/single-player-game-psychology.md) - 探討如何透過內在動機與去比較化活出自我價值。
+- [強者表達：從自證式陷阱到價值導向的說服力](./wiki/summaries/strong-communication-strategies.md) - 解析如何透過框架效應與認知重構建立權威溝通力。
+- [心理抗拒：為什麼「越禁止，越想要」？解開大腦的叛逆機制](./wiki/summaries/psychological-reactance.md) - 探討心理抗拒的機制及其在溝通與自我管理中的應用。
+- [從情緒緩衝到心理韌性：打造你的「反脆弱」思維系統](./wiki/summaries/emotional-buffering-resilience.md) - 解析情緒緩衝、韌性鍛鍊與 ABCDE 認知工具。
+- [掌控大腦的使用說明書：深度解析認知行為治療 (CBT)](./wiki/summaries/cognitive-behavioral-therapy-guide.md) - 全面介紹 CBT 的核心原理、認知三角與實踐技術。
+- [打掃房間，為什麼能安撫焦慮？──心理學的解釋](./wiki/summaries/cleaning-anxiety-regulation.md) - 探討建立外在秩序如何幫助修復內在混亂與焦慮。
+- [潛意識的導演：解構「認知腳本」(Cognitive Scripts)](./wiki/summaries/cognitive-scripts-analysis.md) - 深入解析大腦的自動導航模式及其改寫策略。
+- [認知失調完全指南：從看懂「自我欺騙」到掌握「人心機制」](./wiki/summaries/cognitive-dissonance-guide.md) - 深度解析認知失調機制及其在自我調節與影響力中的應用。
+- [成就感的心理機制：進展、觀察與成長迴圈](./wiki/summaries/achievement-mechanism.md) - 探討成就感的底層邏輯：進展、勝任感與成長迴圈。
+- [控制二分法：斯多葛智慧與心理健康的基石](./wiki/summaries/dichotomy-of-control-guide.md) - 解析如何透過區分可控與不可控因素來消除心理內耗。
+- [深度解析「控制點」理論：從受害者到掌舵者的心智轉型](./wiki/summaries/locus-of-control-depth.md) - 探討控制點對 health、壽命與心態轉變的深遠影響。
+- [決策疲勞：為什麼做決定會讓你精疲力竭？](./wiki/summaries/decision-fatigue-guide.md) - 解析意志力耗損機制與如何透過常規化保護大腦電量。
+- [沉沒成本謬誤：為何我們與在錯誤中越陷越深？](./wiki/summaries/sunk-cost-fallacy-guide.md) - 探討損失規避如何導致非理性堅持，及如何透過歸零思考止損。
+- [為什麼「不確定」會讓你瞬間引爆？從大腦機制到童年根源的完整解構](./wiki/summaries/uncertainty-anger-analysis.md) - 深入剖析不確定性引發憤怒的生物學與童年根源。
+- [為什麼「外國的月亮」真的比較圓？拆解國外旅遊比國旅好玩的底層邏輯](./wiki/summaries/travel-psychology-analysis.md) - 從 CLT 理論、習慣化與心理帳戶解析旅遊的新鮮感。
+- [為什麼爸媽的「隨機關心」會讓你莫名火大？](./wiki/summaries/parent-digital-communication.md) - 從情緒勞動與角色轉換成本解析親子通訊的壓力源。
+- [為什麼你總是活得這麼累？一文讀懂「課題分離」，找回人生的主導權](./wiki/summaries/separation-of-tasks-depth.md) - 深入剖析阿德勒心理學中的責任界線與心理自由。
+- [為何厲害的人都不內耗？這不是天賦，而是一場頂級的「大腦資源管理術」](./wiki/summaries/mental-friction-management.md) - 解析精神內耗機制與提升認知效率的行為策略。
+- [為什麼你總覺得大家都在看你？深度解析「聚光燈效應」](./wiki/summaries/spotlight-effect-analysis.md) - 解析聚光燈效應、透明度錯覺與自我中心偏誤。
+- [社會認同 (Social Proof)：為什麼我們總愛「隨大流」？](./wiki/summaries/social-proof-analysis.md) - 解析社會認同機制、驅動要素與旁觀者效應。
+- [從「捨不得丟」到「死抱賠錢股」：解析稟賦效應與處置效應的心理陷阱](./wiki/summaries/endowment-disposition-analysis.md) - 解析展望理論下的所有權與損失規避機制。
+- [從「相信」到「實現」：自我效能 (Self-Efficacy) 的心理學解析](./wiki/summaries/self-efficacy-analysis.md) - 解析班杜拉的自我效能理論及其建立自信的四大來源。
+- [為何我們總是在錯誤中越陷越深？沉沒成本謬誤與理性決策指南](./wiki/summaries/sunk-cost-fallacy-analysis.md) - 解析沉沒成本謬誤機制、協和號效應與歸零思考策略。
+- [💭 真正的自由，是你不再內耗的那一刻：用行動取代焦慮](./wiki/summaries/action-over-anxiety.md) - 探討如何透過專注過程與微小行動打破心理內耗。
+- [真正拉開人與人差距的是心智：心智成熟的九大標誌](./wiki/summaries/mindset-maturity-markers.md) - 探討從自我證明到自我接納的心智成長路徑。
+- [為什麼要專注自己成為主角？活出自主與意義的心理學分析](./wiki/summaries/becoming-the-protagonist.md) - 從社會比較與自我決定理論探討主角意識的重要性。
+- [你的行為正在「欺騙」大腦：深入解析自我知覺理論 (Self-Perception Theory)](./wiki/summaries/self-perception-guide.md) - 解析行為如何重塑思維及「裝假直到成真」的機制。
+- [認知失調完全指南：從看懂「自我欺騙」到掌握「人心機制」](./wiki/summaries/cognitive-dissonance-guide.md) - 深入解析認知失調機制、心血辯護與富蘭克林效應。
+- [思維誤區解構：從行為科學視角剖析「選擇偏誤」 (Selection Bias)](./wiki/summaries/selection-bias-analysis.md) - 解析倖存者偏差、沈默數據與亞伯拉罕·瓦德的洞見。
+- [為什麼網路上總是充斥著賺了錢卻失去了其他東西的文章呢？](./wiki/summaries/wealth-happiness-tradeoff.md) - 解析財富與幸福感的飽和效應、邊際效應遞減與時間富裕。
 
 *(The LLM will automatically append new links to these categories during the Ingest process).*

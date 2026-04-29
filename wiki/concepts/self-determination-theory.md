@@ -18,3 +18,5 @@
 - [理解與培養自尊心：從外在依附到內在穩定的心理成長之路](../summaries/self-esteem-growth.md)
 - [從控制式關懷到成熟的情感界線：在相互依附文化中學會放手的藝術](../summaries/controlling-care-boundaries.md)
 - [FOPO：對他人評價的恐懼與自救指南](../summaries/fopo-analysis.md)
+- [富能量 × 心理學：日常操作清單](../summaries/psychology-rich-energy-checklist.md)
+- [成就感的心理機制：進展、觀察與成長迴圈](../summaries/achievement-mechanism.md)

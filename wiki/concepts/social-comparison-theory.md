@@ -12,6 +12,10 @@
 
 ## 影響
 過度的社會比較，特別是在競爭激烈的環境中，會使個體的價值感變得極不穩定。
+- [FOPO (對他人評價的恐懼)](./fopo.md) - 過度的向上比較是 FOPO 的主要誘因。
+- [單人遊戲](./single-player-game.md) - 透過建立內在評估系統來退出社會比較遊戲。
 
-## 來源與參考
+---
+**參考來源**：
 - [FOPO：對他人評價的恐懼與自救指南](../summaries/fopo-analysis.md)
+- [專注你的單人遊戲：去比較化與自我實現的心理學策略](../summaries/single-player-game-psychology.md)
