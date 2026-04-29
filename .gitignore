@@ -1,2 +1,4 @@
 .obsidian/
-
+skills-lock.json
+.agents/skills/documentation/*
+.agents/skills/insight/*
