@@ -23,7 +23,7 @@
 - [圖式治療 (Schema Therapy)](./schema-therapy.md)
 - [自我犧牲圖式 (Self-Sacrifice Schema)](./self-sacrifice-schema.md)
 - [討好型人格 (People-Pleasing)](./people-pleasing.md)
-- [情緒勒索 (Emotional Blackmail)](./emotional-blackmail.md)
+- [情緒勒索 (Emotional Blackmail)](./people-pleasing.md)
 
 ## 📂 參考來源
 - [如何打破原生家庭的宿命輪迴？：看懂隱形忠誠，重獲幸福主導權](../summaries/breaking-family-cycles.md)

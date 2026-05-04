@@ -16,6 +16,6 @@
 - **產品設計：** 社群媒體的通知機制與遊戲化設計（利用變動比率增強讓人「上癮」）。
 
 ## 🔗 相關概念
-- [操作制約 (Operant Conditioning)](../concepts/operant-conditioning.md)
+- [操作制約 (Operant Conditioning)](./operant-conditioning.md)
 - [變動比率增強 (Variable Ratio Schedule)](../concepts/variable-ratio-schedule.md)
 - [多巴胺 (Dopamine)](../concepts/dopamine.md)

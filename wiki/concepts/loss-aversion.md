@@ -9,3 +9,4 @@
 ---
 **參考來源**：
 - [為什麼大腦總是背叛你？破解拖延症的科學機制與「無效死線」修復指南](../summaries/procrastination-science.md)
+- [職場情緒調節：真正的狠人，是把討厭的人當成「背景音樂」](../summaries/workplace-emotion-regulation.md)

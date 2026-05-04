@@ -87,3 +87,5 @@ Ingest entries MUST include a relative link to the corresponding summary page in
 ## [2026-04-29] ingest | [為什麼當別人關心我的時候我會很感謝，但是當父母關心我的時候我會覺得很煩躁？.md](wiki/summaries/parent-vs-friend-care.md)
 ## [2026-04-29] ingest | [為什麼西方會以我買到一樣東西很開心，東方是以我買到一樣很便宜的東西而開心，這差別是甚麼原因呢？.md](wiki/summaries/cultural-shopping-psychology.md)
 ## [2026-04-29] ingest | [針對逃避型依附的年長的人，他有強烈的虧欠感焦慮與依賴別人是不安全的和需求是不會被滿足的，這樣有辦法扭轉他們的想法嗎？有什麼建議讓他心裡可以比較正常呢？.md](wiki/summaries/avoidant-attachment-elderly-care.md)
+## [2026-04-29] lint | Fixed 50+ broken links and added 5 new core concepts: Prefrontal Cortex, Operant Conditioning, Social Influence, Trauma-Informed Care, and SDT elements.
+## [2026-05-04] ingest | [職場情緒調節.md](wiki/summaries/workplace-emotion-regulation.md)

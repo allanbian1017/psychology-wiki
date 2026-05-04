@@ -12,7 +12,7 @@ ABC 理論是理情行為治療 (REBT) 的核心架構，由心理學家 [阿爾
 **「事件 (A) 本身並不直接導致結果 (C)，而是信念 (B) 媒介了事件與結果的關係。」** 透過改變 B，即使 A 不變，也能產生更健康的 C。
 
 ### ABCDE 模型
-這是 ABC 理論在[理性情緒行為治療 (REBT)](./rebt.md)中的實踐工具：
+這是 ABC 理論在[理情行為治療 (REBT)](./rational-emotive-behavior-therapy.md)中的實踐工具：
 - **D (Disputation)**：辯證與反駁不合理信念。
 - **E (Effect)**：轉念後產生的新情緒與新行動。
 

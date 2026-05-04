@@ -13,7 +13,7 @@
 在職場中，[分紅制度](../summaries/taiwan-bonus-system.md)或績效獎金往往具有變動比率的特性。即便公司有保底月數，但超額部分的不確定性會促使員工為了那個「可能的驚喜」而持續投入高強度的努力，其激勵效果通常優於固定發放的高月薪。
 
 ## 🔗 相關概念
-- [操作制約 (Operant Conditioning)](../concepts/operant-conditioning.md)
+- [操作制約 (Operant Conditioning)](./operant-conditioning.md)
 - [B.F. Skinner](../concepts/bf-skinner.md)
 - [享樂適應 (Hedonic Adaptation)](../concepts/hedonic-adaptation.md)
 - [多巴胺 (Dopamine)](../concepts/dopamine.md)

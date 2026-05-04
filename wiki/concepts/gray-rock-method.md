@@ -15,7 +15,7 @@
 
 ## 🔗 相關連結
 - [控制式關懷 (Controlling Care)](./controlling-care.md)
-- [情緒勒索 (Emotional Blackmail)](./emotional-blackmail.md)
+- [情緒勒索 (Emotional Blackmail)](./people-pleasing.md)
 - [課題分離 (Separation of Tasks)](./separation-of-tasks.md)
 
 ## 📂 參考來源

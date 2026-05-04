@@ -14,7 +14,7 @@
 
 ## 🔗 相關概念
 - [次級情緒 (Secondary Emotion)](../concepts/secondary-emotion.md)
-- [前額葉 (Prefrontal Cortex)](../concepts/prefrontal-cortex.md)
+- [前額葉皮質 (Prefrontal Cortex)](./prefrontal-cortex.md)
 - [認知解離 (Cognitive Defusion)](../concepts/cognitive-defusion.md)
 
 ---

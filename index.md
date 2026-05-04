@@ -12,8 +12,10 @@ This is the central catalog of everything in the wiki. It is updated by the LLM 
 
 - [創傷後成長 (PTG)](./wiki/concepts/ptg.md) - 個體在經歷重大創傷後產生的正向心理轉變。
 - [創傷後壓力症候群 (PTSD)](./wiki/concepts/ptsd.md) - 經歷可怕事件後產生的精神障礙。
+- [創傷知情照護 (Trauma-Informed Care)](./wiki/concepts/trauma-informed-care.md) - 理解個體行為背景並強調安全與選擇的照護框架。
 - [意義重建 (Meaning-Making)](./wiki/concepts/meaning-making.md) - 在創傷後重新詮釋生命意義的過程。
 - [Richard Tedeschi](./wiki/concepts/richard-tedeschi.md) - PTG 理論的主要奠基者之一。
+- [前額葉皮質 (Prefrontal Cortex)](./wiki/concepts/prefrontal-cortex.md) - 解釋理性決策與情緒調節的生理基礎。
 - [Amos Tversky](./wiki/concepts/amos-tversky.md) - 認知心理學家，與康納曼共同提出展望理論與啟發式偏誤。
 - [分析式思維 vs. 整體性思維 (Analytic vs. Holistic Thinking)](./wiki/concepts/analytic-vs-holistic-thinking.md) - 東西方在資訊處理風格上的基本差異，影響觀察焦點與決策邏輯。
 - [Lawrence Calhoun](./wiki/concepts/lawrence-calhoun.md) - PTG 理論的主要奠基者之一。
@@ -24,6 +26,7 @@ This is the central catalog of everything in the wiki. It is updated by the LLM 
 - [重新定義框架 (Reframing)](./wiki/concepts/reframing.md) - 改變對事件解釋角度的心理技術。
 - [從眾效應 (Conformity Effect)](./wiki/concepts/conformity-effect.md) - 個體與群體一致的傾向及瓦解機制。
 - [Solomon Asch](./wiki/concepts/solomon-asch.md) - 社會心理學家，研究從眾行為。
+- [社會影響 (Social Influence)](./wiki/concepts/social-influence.md) - 探討個體如何受群體壓力、權威或社會規範影響的總括性概念。
 - [肯定性溝通 (Assertive Communication)](./wiki/concepts/assertive-communication.md) - 以尊重自己與他人的方式，清晰表達需求與邊界的溝通風格。
 - [認知失調 (Cognitive Dissonance)](./wiki/concepts/cognitive-dissonance.md) - 信念矛盾時產生的心理不適與調整。
 - [Leon Festinger](./wiki/concepts/leon-festinger.md) - 提出認知失調理論的心理學家。
@@ -42,6 +45,7 @@ This is the central catalog of everything in the wiki. It is updated by the LLM 
 - [PARI 框架](./wiki/concepts/pari-framework.md) - 執行微小實驗的迭代循環（Pact, Act, React, Impact）。
 - [Anne-Laure Le Cunff](./wiki/concepts/anne-laure-le-cunff.md) - 推廣微小實驗概念的神經科學研究者。
 - [B.F. Skinner](./wiki/concepts/bf-skinner.md) - 行為主義學家，提出操作制約與強化程序理論。
+- [操作制約 (Operant Conditioning)](./wiki/concepts/operant-conditioning.md) - 透過獎勵與懲罰重塑行為的學習過程。
 - [最小可行性行動 (Minimum Viable Action)](./wiki/concepts/minimum-viable-action.md) - 行為改變中阻力最低的起始步驟。
 - [接觸安慰 (Contact Comfort)](./wiki/concepts/contact-comfort.md) - 透過柔軟接觸獲得安全感的生理與心理需求。
 - [Harry Harlow](./wiki/concepts/harry-harlow.md) - 研究依附理論與恆河猴實驗的心理學家。
@@ -76,6 +80,7 @@ This is the central catalog of everything in the wiki. It is updated by the LLM 
 - [Kristin Neff](./wiki/concepts/kristin-neff.md) - 自我同情領域的開創性研究者。
 - [Carl Rogers](./wiki/concepts/carl-rogers.md) - 人本主義心理學家，提出案主中心治療與自我理論。
 - [自我決定理論 (Self-Determination Theory)](./wiki/concepts/self-determination-theory.md) - 探討自主性、能力感與連結感需求的動機理論。
+- [自主、勝任與連結 (Autonomy, Competence, Relatedness)](./wiki/concepts/autonomy-competence-relatedness.md) - 自我決定理論中的三大核心心理需求。
 - [Morris Rosenberg](./wiki/concepts/rosenberg.md) - 自尊研究先驅，開發了廣泛使用的自尊量表。
 - [第一性原理 (First Principles Thinking)](./wiki/concepts/first-principles.md) - 回歸事物本質、破除假設的底層思維模型。
 - [類比思維 (Analogy Thinking)](./wiki/concepts/analogy-thinking.md) - 基於過去經驗快速做決定的慣性思維模式。
@@ -367,6 +372,10 @@ This is the central catalog of everything in the wiki. It is updated by the LLM 
 
 - [心理邊界 (Interpersonal Boundaries)](./wiki/concepts/interpersonal-boundaries.md) - 個體保護自我心理空間、區分自我與他人的責任與情感界線。
 - [家庭系統理論 (Family Systems Theory)](./wiki/concepts/family-systems-theory.md) - 將家庭視為一個互相關聯的整體，探討成員間互動模式與功能。
+- [情緒調節 (Emotion Regulation)](./wiki/concepts/emotion-regulation.md) - 個體試圖影響擁有情緒的時間、方式以及表達過程的心理機制。
+- [壓抑情緒 (Expressive Suppression)](./wiki/concepts/expressive-suppression.md) - 有意識地抑制情緒表達行為，常伴隨高生理壓力與自我耗損。
+- [資源保存理論 (Conservation of Resources Theory, COR)](./wiki/concepts/conservation-of-resources.md) - 認為個體具有保護與獲取心理資源的動機，資源喪失是壓力的核心來源。
+- [心理距離 (Psychological Distance)](./wiki/concepts/psychological-distance.md) - 將事件與自我區隔開來的程度，是實現理性評估與情緒調節的關鍵。
 
 
 ### Sources
@@ -453,3 +462,4 @@ This is the central catalog of everything in the wiki. It is updated by the LLM 
 - [為什麼對父母的關心容易煩躁？解析自主權與心理邊界](./wiki/summaries/parent-vs-friend-care.md) - 探討心理抗拒理論、糾結狀態與如何建立健康的家庭邊界。
 - [為什麼西方人買到東西開心，東方人買到便宜開心？](./wiki/summaries/cultural-shopping-psychology.md) - 解析分析式與整體性思維如何重塑購物體驗。
 - [逃避型依附長輩的照護指南：如何處理「怕虧欠」與「不信任」？](./wiki/summaries/avoidant-attachment-elderly-care.md) - 提供軟化長輩防禦機制、建立獲得型安全感的實踐策略。
+- [職場情緒調節：真正的狠人，是把討厭的人當成「背景音樂」](./wiki/summaries/workplace-emotion-regulation.md) - 解析如何透過認知重評與心理距離進行職場心理資源管理。

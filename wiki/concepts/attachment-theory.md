@@ -10,7 +10,7 @@
 
 ## 依附類型
 
-心理學家 [Mary Ainsworth](../concepts/mary-ainsworth.md) 透過「陌生情境實驗」將依附風格劃分為：
+心理學家 [Mary Ainsworth](./attachment-theory.md) 透過「陌生情境實驗」將依附風格劃分為：
 1. **[安全型依附](../concepts/secure-attachment.md)**
 2. **[焦慮型依附](../concepts/anxious-attachment.md)**
 3. **[逃避型依附](../concepts/avoidant-attachment.md)**

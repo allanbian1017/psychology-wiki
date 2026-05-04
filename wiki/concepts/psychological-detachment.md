@@ -22,3 +22,4 @@
 
 ## 📂 參考來源
 - [為什麼「外國的月亮」比較圓？拆解國外旅遊與新鮮感的心理學底層邏輯](../summaries/travel-psychology-analysis.md)
+- [職場情緒調節：真正的狠人，是把討厭的人當成「背景音樂」](../summaries/workplace-emotion-regulation.md)

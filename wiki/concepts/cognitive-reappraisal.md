@@ -15,3 +15,4 @@
 - [情緒的本質：人類精密的生存導航系統](../summaries/nature-of-emotions.md)
 - [從情緒緩衝到心理韌性：打造你的「反脆弱」思維系統](../summaries/emotional-buffering-resilience.md)
 - [壓力管理的科學：從生理機制到認知重塑](../summaries/stress-management-science.md)
+- [職場情緒調節：真正的狠人，是把討厭的人當成「背景音樂」](../summaries/workplace-emotion-regulation.md)
