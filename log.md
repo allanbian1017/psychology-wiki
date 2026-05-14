@@ -89,3 +89,4 @@ Ingest entries MUST include a relative link to the corresponding summary page in
 ## [2026-04-29] ingest | [針對逃避型依附的年長的人，他有強烈的虧欠感焦慮與依賴別人是不安全的和需求是不會被滿足的，這樣有辦法扭轉他們的想法嗎？有什麼建議讓他心裡可以比較正常呢？.md](wiki/summaries/avoidant-attachment-elderly-care.md)
 ## [2026-04-29] lint | Fixed 50+ broken links and added 5 new core concepts: Prefrontal Cortex, Operant Conditioning, Social Influence, Trauma-Informed Care, and SDT elements.
 ## [2026-05-04] ingest | [職場情緒調節.md](wiki/summaries/workplace-emotion-regulation.md)
+## [2026-05-14] ingest | [自我慈悲、自我批評、亞洲文化裡的羞恥感.md](wiki/summaries/self-compassion-vs-criticism-shame.md)

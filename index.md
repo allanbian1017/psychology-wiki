@@ -376,6 +376,7 @@ This is the central catalog of everything in the wiki. It is updated by the LLM 
 - [壓抑情緒 (Expressive Suppression)](./wiki/concepts/expressive-suppression.md) - 有意識地抑制情緒表達行為，常伴隨高生理壓力與自我耗損。
 - [資源保存理論 (Conservation of Resources Theory, COR)](./wiki/concepts/conservation-of-resources.md) - 認為個體具有保護與獲取心理資源的動機，資源喪失是壓力的核心來源。
 - [心理距離 (Psychological Distance)](./wiki/concepts/psychological-distance.md) - 將事件與自我區隔開來的程度，是實現理性評估與情緒調節的關鍵。
+- [內投調節 (Introjected Regulation)](./wiki/concepts/introjected-regulation.md) - 將外部規則與評判吞入心中，依賴內部羞恥感與焦慮驅動的非自主外控動機狀態。
 
 
 ### Sources
@@ -463,3 +464,4 @@ This is the central catalog of everything in the wiki. It is updated by the LLM 
 - [為什麼西方人買到東西開心，東方人買到便宜開心？](./wiki/summaries/cultural-shopping-psychology.md) - 解析分析式與整體性思維如何重塑購物體驗。
 - [逃避型依附長輩的照護指南：如何處理「怕虧欠」與「不信任」？](./wiki/summaries/avoidant-attachment-elderly-care.md) - 提供軟化長輩防禦機制、建立獲得型安全感的實踐策略。
 - [職場情緒調節：真正的狠人，是把討厭的人當成「背景音樂」](./wiki/summaries/workplace-emotion-regulation.md) - 解析如何透過認知重評與心理距離進行職場心理資源管理。
+- [自我慈悲、自我批評與亞洲文化裡的羞恥感：如何重新學習跟自己說話](./wiki/summaries/self-compassion-vs-criticism-shame.md) - 探討如何跳脫傳統自我批判陷阱，透過自我同情停止內耗與推動實質成長。

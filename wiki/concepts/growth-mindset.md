@@ -15,6 +15,7 @@
 
 - **[自我效能 (Self-Efficacy)](./self-efficacy-theory.md)**：成長心態是建立高自我效能的基石，因為它讓人相信「改變是可能的」。
 - **神經塑性**：現代腦科學證明，透過持續的挑戰與學習，大腦的神經連結會增強，支持了成長心態的科學性。
+- **[自我同情 (Self-Compassion)](./self-compassion.md)**：實證研究顯示，當個體遭遇挫折時獲得自我同情引導，大腦無須耗費能量處理「我很糟」的羞恥感，反而能釋放出最多的認知資源去面對問題，展現出真正的成長心態。
 
 ## 生活啟示
 - **讚美過程而非結果**：稱讚一個人的「努力與策略」而非「聰明與才華」，能幫助其建立成長心態。
@@ -24,7 +25,9 @@
 - [卡羅·杜維克 (Carol Dweck)](./carol-dweck.md)
 - [自我效能理論 (Self-Efficacy Theory)](./self-efficacy-theory.md)
 - [過往成功經驗 (Mastery Experiences)](./mastery-experiences.md)
+- [自我同情 (Self-Compassion)](./self-compassion.md)
 
 ## 📂 參考來源
 - [從「相信」到「實現」：自我效能 (Self-Efficacy) 的心理學解析](../summaries/self-efficacy-analysis.md)
 - [真正拉開人與人差距的是心智：心智成熟的九大標誌](../summaries/mindset-maturity-markers.md)
+- [自我慈悲、自我批評與亞洲文化裡的羞恥感：如何重新學習跟自己說話](../summaries/self-compassion-vs-criticism-shame.md)
